@@ -28,8 +28,7 @@ A dynamic and scalable application that allows users to create, manage, and reus
 
 ```
 frontend/
-backend/
-database/
+
 ```
 
 ---
@@ -42,13 +41,6 @@ database/
 cd frontend
 npm install
 npm start
-```
-
-### Backend
-
-```
-cd backend
-mvn spring-boot:run
 ```
 
 ---
