@@ -38,7 +38,7 @@ frontend/
 ### Frontend
 
 ```
-cd frontend
+cd todo-list
 npm install
 npm start
 ```
